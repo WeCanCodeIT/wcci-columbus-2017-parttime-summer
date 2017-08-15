@@ -27,7 +27,7 @@ The Road Map can be found [here](https://docs.google.com/spreadsheets/d/1btdV99C
 - Unit Testing/TDD (Junit)
 
 ## Weeks 5-6 ([details](./week05))
-- Collections Overview (*Iterables/Iterators)
+- Collections Overview
 - Lists
 - Maps
 - Inheritance & Polymorphism
