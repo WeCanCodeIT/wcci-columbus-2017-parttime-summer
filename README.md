@@ -71,9 +71,9 @@ The Road Map can be found [here](https://docs.google.com/spreadsheets/d/1btdV99C
 
 # Attendance Policy
 
-Class is from 5:30PM-9:30PM Monday-Thursday, with tutoring / study periods Friday 5:30PM-7:00PM.
+Class is from 5:30PM-9:00PM Monday-Thursday, with tutoring / study periods Friday 5:30PM-7:00PM.
 
-You are required to attend a minimum of 90% of class time to be eligible for graduation. Attendance is measured *to the minute*—arriving late or leaving early will negatively impact your attendance. Please inform an instructor or TA if extenuating circumstances arise.
+You are required to attend a minimum of 90% of class time to be eligible for graduation. Attendance is measured *to the minute*—arriving late or leaving early will negatively impact your attendance. Please inform an instructor if extenuating circumstances arise.
 
 # Grading Policy
 
@@ -98,11 +98,11 @@ Regarding late and incomplete projects, We Can Code IT’s policy is as follows:
 
 ### Unsatisfactory Progress Probationary Period
 
-If a student is failing a portion of the program, the student will be placed on academic probation for two weeks. In this time period, the student will be put on a remediation plan and is expected to complete and pass any portion of the class in which the student has failed. If the student cannot resolve his or her failing status satisfactorily, he or she may be dismissed from the program. The student may be eligible for a refund based upon our stated refund policies.
+If a student is failing a portion of the program, the student will be placed on academic probation. In this time period, the student will be put on a remediation plan and is expected to complete and pass any portion of the class in which the student has failed. If the student cannot resolve his or her failing status satisfactorily, he or she may be dismissed from the program. The student may be eligible for a refund based upon our stated refund policies.
 
 ### Final Projects
 
-Final projects will be worth 100 points per week worked on the project, with each week graded independently. These grades will be determined based upon the milestones set for each project and how well those milestones were met. Students must be passing the course prior to final projects to be eligible to participate in final projects.
+Students must be passing the course prior to final projects to be eligible to participate in final projects.
 
 # Course Resources
 
