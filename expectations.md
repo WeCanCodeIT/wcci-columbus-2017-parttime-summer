@@ -32,3 +32,17 @@
 
 ## Instructors/Staff
 
+- Be kind to yourself and others.
+- Coffee!
+- Provide constructive feedback.
+- Clearly communicate knowledge.
+- Put in as much effort as the cohort does.
+- Be patient. Don't get mad!
+- Provide facial tissues.
+- Humour.
+- Empower and support students.
+- Challenge the cohort.
+- Clearly express requirements and goals.
+- Remove dead shrimp. Snail suicide prevention.
+- Engage the cohort.
+- Be prompt, prepared, and consistent.
