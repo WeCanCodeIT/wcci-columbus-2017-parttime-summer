@@ -89,7 +89,7 @@ Regarding late and incomplete projects, We Can Code IT’s policy is as follows:
 
 * For each day after the project is due, the grade will automatically be deducted by 10 percentage points of the maximum possible score.
   * To be clear, a project due at 5:30PM on Monday is considered one day late starting at Monday at 5:31PM.
-  * That project is then considered an additional day late starting at 5:31PM on Tuesday, thereby being two days late.
+  * That project is then considered an additional day late starting at 5:31PM on Tuesday, making that project two days late overall.
 * After a project is five days late (using the above example, this would be Friday at 5:31PM), the project is automatically scored at a 0/100 or 0%.
 * If a student knows in advance that she or he will not be able to submit the project by its due date, that student is required to notify the instructors via email as soon as possible.
 * Extensions on project submissions will be given with the Education Team’s discretion in the case of extenuating circumstances.
