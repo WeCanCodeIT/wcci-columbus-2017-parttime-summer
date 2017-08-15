@@ -130,6 +130,7 @@ In addition to the required text, this and other We Can Code IT repositories wil
 
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 - [Programming by Doing](https://programmingbydoing.com/)
+- [CodingBat code practice](http://codingbat.com/java)
 - [tutorialspoint's Java Tutorial](https://www.tutorialspoint.com/java/)
 
 #### Spring
