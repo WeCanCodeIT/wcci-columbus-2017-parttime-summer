@@ -77,9 +77,7 @@ You are required to attend a minimum of 90% of class time to be eligible for gra
 
 # Grading Policy
 
-In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. In addition, you must receive a grade of 70% or higher on the final project.
-
-## Attendance
+In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments.
 
 ## Projects
 
