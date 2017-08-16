@@ -8,6 +8,7 @@
 
 task | command
 --------------------|--------------------
+(Auto)Format Code | Shift + Ctrl + F
 Beginning of line | Home
 End of line | End
 Delete current line | Ctrl + D
@@ -22,7 +23,6 @@ Highlight entire line of code | Shift + Ctrl + Home/End (+ Up/Down to highlight 
 System.out.println(); | "Sout”, Ctrl + Space
 Fill-in/complete word | type a few letters, Ctrl + Space
 Move entire line/code block | highlight all, Alt + up or down arrow
-Format alignment | Ctrl + Shift + f
 New Project/Class/Anything... | Ctrl + n
 UNDO | Ctrl + z
 REDO | Ctrl + y
