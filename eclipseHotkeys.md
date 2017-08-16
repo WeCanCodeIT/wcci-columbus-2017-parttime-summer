@@ -14,10 +14,10 @@ Delete current line | Ctrl + D
 Insert line above current line | Ctrl +Shift + Enter
 Switch between test and production class | Ctrl + j
 Find on page | Ctrl + f
-Close Window | Ctrl + w
+Close editor tab | Ctrl + w
 Jump to method | Ctrl + Shift + up/down
 Move between words horizontally | Ctrl + left/right arrow (even works between camelCase!)
-Move to Beginning/End of document | Page Up/ Page Down
+Move to Beginning/End of document | Page Up/Page Down
 Highlight entire line of code | Shift + Ctrl + Home/End (+ Up/Down to highlight code blocks)
 System.out.println(); | "Sout”, Ctrl + Space
 Fill-in/complete word | type a few letters, Ctrl + Space
