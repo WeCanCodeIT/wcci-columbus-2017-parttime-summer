@@ -1,6 +1,6 @@
 
 
-# - eclipse shortcuts*** -
+# - Eclipse Shortcuts -
 
 ### guys, shortcuts are the wave of the future.
 #### coding will be SO. MUCH. FASTERRRR
