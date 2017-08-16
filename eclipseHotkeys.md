@@ -12,7 +12,7 @@ Beginning of line | Home
 End of line | End
 Delete current line | Ctrl + D
 Insert line above current line | Ctrl +Shift + Enter
-Switch Classes | Ctrl + j
+Switch between test and production class | Ctrl + j
 Find on page | Ctrl + f
 Close Window | Ctrl + w
 Jump to method | Ctrl + Shift + up/down
