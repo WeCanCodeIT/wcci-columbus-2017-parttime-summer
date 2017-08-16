@@ -29,7 +29,7 @@ REDO | Ctrl + y
 COPY | Ctrl + c
 COPY & Delete | Ctrl + x
 PASTE | Ctrl + v
-Make Note | Strl + /
+Make Note | Ctrl + /
 
 
 *** this document is a work in progress! if you find any shortcuts, let me know and I'll add them to the list
