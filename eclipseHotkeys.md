@@ -19,9 +19,12 @@ Paste | Ctrl + V
 Cut (Copy and Delete) | Ctrl + X
 Undo | Ctrl + Z
 Redo | Ctrl + Y
+Find on page | Ctrl + F
+Close current tab | Ctrl + W
 Move to beginning of line | Home
 Move to end of line | End
-Find on page | Ctrl + F
+Move to next/previous word | Ctrl + Left/Right Arrow (even works for camelCase in Eclipse!)
+Move to beginning/end of document/editor/window | Ctrl + Home/End
 
 ## Eclipse-specific hotkeys
 
@@ -30,15 +33,11 @@ task | command
 (Auto)Format Code | Shift + Ctrl + F
 Toggle single line comment | Ctrl + /
 Delete current line | Ctrl + D
-Close editor tab | Ctrl + w
-Jump to method | Ctrl + Shift + up/down
-Move between words horizontally | Ctrl + left/right arrow (even works between camelCase!)
-Move to Beginning/End of document | Page Up/Page Down
-Highlight entire line of code | Shift + Ctrl + Home/End (+ Up/Down to highlight code blocks)
-System.out.println(); | "Sout”, Ctrl + Space
-Fill-in/complete word | type a few letters, Ctrl + Space
-Move entire line/code block | highlight all, Alt + up or down arrow
-New Project/Class/Anything... | Ctrl + n
+Jump to next/previous method/class | Ctrl + Shift + Up/Down Arrow
+System.out.println(); | type `sout`, then Ctrl + Space
+Fill-in/autocomplete variable/class/etc name | type a few letters, then Ctrl + Space
+Move a line of code (or selected code) up/down | Alt + Up/Down Arrow
+Create new project/class/etc | Ctrl + N
 Switch between test and production class | Ctrl + J
 Insert line above current line | Shift + Ctrl + Enter
 
