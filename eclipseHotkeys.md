@@ -1,20 +1,35 @@
 
 
-# - Eclipse Shortcuts -
+# Eclipse Hotkeys
 
-### guys, shortcuts are the wave of the future.
-#### coding will be SO. MUCH. FASTERRRR
-##### learn these tips and you'll be coding at lightening speed in no time!
+**Guys, shortcuts are the wave of the future.**
+
+**Coding will be SO. MUCH. FASTERRRR.**
+
+**Learn these hotkeys and you'll be coding at lightning speed in no time!**
+
+## Standard Hotkeys
+
+Most of these work in other apps, too.
+
+task | command
+-----| -------
+Copy | Ctrl + C
+Paste | Ctrl + V
+Cut (Copy and Delete) | Ctrl + X
+Undo | Ctrl + Z
+Redo | Ctrl + Y
+Move to beginning of line | Home
+Move to end of line | End
+Find on page | Ctrl + F
+
+## Eclipse-specific hotkeys
 
 task | command
 --------------------|--------------------
 (Auto)Format Code | Shift + Ctrl + F
-Beginning of line | Home
-End of line | End
+Toggle single line comment | Ctrl + /
 Delete current line | Ctrl + D
-Insert line above current line | Ctrl +Shift + Enter
-Switch between test and production class | Ctrl + j
-Find on page | Ctrl + f
 Close editor tab | Ctrl + w
 Jump to method | Ctrl + Shift + up/down
 Move between words horizontally | Ctrl + left/right arrow (even works between camelCase!)
@@ -24,12 +39,8 @@ System.out.println(); | "Sout”, Ctrl + Space
 Fill-in/complete word | type a few letters, Ctrl + Space
 Move entire line/code block | highlight all, Alt + up or down arrow
 New Project/Class/Anything... | Ctrl + n
-UNDO | Ctrl + z
-REDO | Ctrl + y
-COPY | Ctrl + c
-COPY & Delete | Ctrl + x
-PASTE | Ctrl + v
-Create (or undo) single line comment | Ctrl + /
+Switch between test and production class | Ctrl + J
+Insert line above current line | Shift + Ctrl + Enter
 
 
 *** this document is a work in progress! if you find any shortcuts, let me know and I'll add them to the list
