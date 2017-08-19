@@ -127,6 +127,7 @@ In addition to the required text, this and other We Can Code IT repositories wil
 
 ### Java
 
+- [Princeton University's Introduction to Programming in Java 'booksite'](http://introcs.cs.princeton.edu/java/home/)
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 - [Programming by Doing](https://programmingbydoing.com/)
 - [CodingBat code practice](http://codingbat.com/java)
