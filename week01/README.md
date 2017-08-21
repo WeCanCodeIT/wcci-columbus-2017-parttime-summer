@@ -31,6 +31,7 @@
 ### Homework/References
 
 - [Student Guide: Types and Expressions](./types-and-expressions.md)
+- Head First Java, pp 49-52
 
 ## Thursday, August 17th
 
