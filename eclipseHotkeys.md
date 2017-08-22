@@ -40,6 +40,7 @@ Move a line of code (or selected code) up/down | Alt + Up/Down Arrow
 Create new project/class/etc | Ctrl + N
 Switch between test and production class | Ctrl + J
 Insert line above current line | Shift + Ctrl + Enter
+Open class by type (class name) | Shift + Ctrl + T
 
 
 *** this document is a work in progress! if you find any shortcuts, let me know and I'll add them to the list
