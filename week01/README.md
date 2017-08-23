@@ -71,6 +71,7 @@
 ### Topics
 
 - Git and GitHub
+- In class tutorial: NodeSchool's [git-it workshopper](https://github.com/jlord/git-it-electron/releases)
 
 ### Resources
 
