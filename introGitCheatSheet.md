@@ -2,7 +2,7 @@
 
 1) Once you create a Java project in eclipse go to bash and change your directory to that project
 2) Next initialize `git init`
-3) `git add filename` or `git add .` to add files
+3) `git add *filename*` or `git add .` to add files
 4) `git commit -m *your message*`
 5) `git remote add origin *repolink*`
 6) `git push -u origin master`
