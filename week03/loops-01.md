@@ -1,4 +1,4 @@
-# Loops, Part 1
+# Loops
 
 ## Topics
 
