@@ -1,4 +1,4 @@
-# Week 1
+# Weeks 1 and 2
 
 ## Monday, August 14th
 
