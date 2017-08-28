@@ -76,3 +76,9 @@
 ### Resources
 
 - [Git Bash commands cheat sheet (work in progress)](https://wecancodeit.github.io/java-resources/bash/)
+
+## Graded Exercise
+
+Graded exercise this time around in [Fortune Teller](../exercises/fortune-teller).
+
+Push your work to your github repository, then fill out the form here: [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSdtK-9YaNfYRRcUwD4AaXPOmwQ_42W5pt9R3LqdodFql6KDOA/viewform?usp=sf_link).
