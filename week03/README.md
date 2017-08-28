@@ -3,7 +3,7 @@
 ## Topics
 
 - Loops
-	- Loops, Part 1: [Student Guide](./loops-01.md)
+	- Loops: [Student Guide](./loops.md)
 - Arrays
 	- Arrays: [Student Guide](./arrays.md)
 - Intro to OOP
