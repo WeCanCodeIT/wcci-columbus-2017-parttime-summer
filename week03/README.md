@@ -6,6 +6,9 @@
 	- Loops: [Student Guide](./loops.md)
 - Arrays
 	- Arrays: [Student Guide](./arrays.md)
+- Branching Statements
+	- [Slides](https://wecancodeit.github.io/java-slides/fundamentals/branching-statements)
+	- [Oracle Java Tutorial, Branching Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)
 - Intro to OOP
 	- Classes
 	- Objects
