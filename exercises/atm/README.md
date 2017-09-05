@@ -2,13 +2,13 @@
 
 ## Objective
 
-Design an `Atm` class and an `AtmClient` (with a `main` method) to simulate access and transactions that occur with an ATM (**A**utomatic **T**eller **Machine**).  The ATM should require the user to enter a 4 digit PIN (**P**ersonal **I**dentification **N**umber) to gain access.
+Design an `Atm` class and an `AtmClientApp` (with a `main` method) to simulate access and transactions that occur with an ATM (**A**utomatic **T**eller **Machine**).  The ATM should require the user to enter a 4 digit PIN (**P**ersonal **I**dentification **N**umber) to gain access.
 
 ### Tasks
 
 Complete the following tasks in the given order, finishing one before moving on to the next (excepting stretch tasks).
 
-Where these instructions mention prompting the user or displaying information, this should be done via console. Also, all of the console input/output should be done from the `AtmClient` class.
+Where these instructions mention prompting the user or displaying information, this should be done via console. Also, all of the console input/output should be done from the `AtmClientApp` class.
 
 #### Require a PIN for access
 
