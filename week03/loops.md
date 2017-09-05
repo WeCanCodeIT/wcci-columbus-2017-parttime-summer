@@ -26,4 +26,3 @@
 - [Loops, Part 1 slides](https://wecancodeit.github.io/java-slides/fundamentals/loops-01/)
 - [For Loops slides](https://wecancodeit.github.io/java-slides/fundamentals/for-loops/)
 - [Oracle Java Tutorial, The while and do-while Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
-- [Oracle Java Tutorial, Branching Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)

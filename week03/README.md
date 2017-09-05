@@ -6,13 +6,13 @@
 	- Loops: [Student Guide](./loops.md)
 - Arrays
 	- Arrays: [Student Guide](./arrays.md)
+- Branching Statements
+	- [Slides](https://wecancodeit.github.io/java-slides/fundamentals/branching-statements)
+	- [Oracle Java Tutorial, Branching Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)
 - Intro to OOP
 	- Classes
 	- Objects
 		- creating objects using the `new` operator
 	- Instance variables
 	- Methods
-
-### Exercises
-
-- [ATM](../exercises/atm)
+	- Exercise: [ATM](../exercises/atm)
