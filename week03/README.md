@@ -12,3 +12,7 @@
 		- creating objects using the `new` operator
 	- Instance variables
 	- Methods
+
+### Exercises
+
+- [ATM](../exercises/atm)
