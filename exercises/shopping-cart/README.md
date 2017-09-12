@@ -39,3 +39,5 @@ Total Price: $95.00
 
 Continue shopping (y/n)? n
 ```
+
+**Stretchier task**: Create a `Cart` class that is responsible for managing `items`. `ShopApp` should only manipulate the contents of the cart by calling methods on `Cart`. It should not talk directly to `Item` instances.
