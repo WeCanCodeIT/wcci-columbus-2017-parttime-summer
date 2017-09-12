@@ -64,6 +64,8 @@ The Road Map can be found [here](https://docs.google.com/spreadsheets/d/1btdV99C
 
 # Important Dates
 
+See [Cohort Calendar](http://tinyurl.com/y8lg9kw5) for guest speakers, etc.
+
 - September 4: Labor Day (no class)
 - Nov 22 - Nov 24: Thanksgiving break (no class)
 - Dec 22 - Jan 1: Winter Break (no class)
