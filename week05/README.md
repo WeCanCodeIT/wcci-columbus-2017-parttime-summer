@@ -12,7 +12,7 @@
 	- enhanced `for` loops / `java.lang.Iterable`
 	- `java.util.Map` and `java.util.HashMap`
 		- [slides](https://wecancodeit.github.io/java-slides/objects/maps/)
-		- [exercises](../map-exercises)
+		- [exercises](../exercises/map-exercises)
 	- `java.util.Set`, `hashCode`, and `equals` (*HFJ*, pp 560-561)
 
 - Generics (*HFJ*, *also* Chapter 16)
