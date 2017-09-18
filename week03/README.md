@@ -17,6 +17,8 @@
 	- Methods
 	- Exercise: [ATM](../exercises/atm)
 
-Graded Exercise: [Virtual Pet](../exercises/virtual-pet)
+## Graded Exercise
+
+[Virtual Pet](../exercises/virtual-pet)
 
 Submit it here: [Submission Link](https://goo.gl/forms/N80N9xlA1R9SMNQY2)
