@@ -14,7 +14,7 @@ This class should handle all of the user input and output, displaying a menu to 
 - adding a `Member`
 - looking up a `Book` by ISBN
 - looking up a `Book` by category
-- allow a `Member` to check out a book (or don't if the book is already checked out)
+- allowing a `Member` to check out a book (or not if the book is already checked out)
 
 ### Library
 
