@@ -8,13 +8,13 @@ At minimum, we will create the classes `LibraryApp`, `Library`, `Book`, and `Mem
 
 ### LibraryApp
 
-This class should handle all of the user input and output, displaying a menu to allow for:
+This class should handle all of the user input and output, displaying a menu with these options:
 
-- adding a `Book`
-- adding a `Member`
-- looking up a `Book` by ISBN
-- looking up a `Book` by category
-- allowing a `Member` to check out a book (or not if the book is already checked out)
+- add a `Book`
+- add a `Member`
+- look up a `Book` by ISBN
+- look up a `Book` by category
+- check out a book given a `Member`'s library card number (or not if the book is already checked out)
 
 ### Library
 
