@@ -5,14 +5,14 @@
 1. Create a Java Project in Eclipse. (I'm using `cooking` as its name in my examples.)
 1. Add the JUnit library to your project.
 1. Create a new source folder called `test`.
-  - Right click on your project name (`cooking` in my case), then `New->Source Folder`.
-  - Specify `test` for `Folder name:`.
-  - Click `Finish`.
+    - Right click on your project name (`cooking` in my case), then `New->Source Folder`.
+    - Specify `test` for `Folder name:`.
+    - Click `Finish`.
 1. Create a `cooking` package in your test folder.
-  - Right click on the test folder.
-  - Select `New->Package`.
-  - Specify `cooking` for `Name:`.
-  - Click `OK`.
+    - Right click on the test folder.
+    - Select `New->Package`.
+    - Specify `cooking` for `Name:`.
+    - Click `OK`.
 
 ## Adding Tests
 
