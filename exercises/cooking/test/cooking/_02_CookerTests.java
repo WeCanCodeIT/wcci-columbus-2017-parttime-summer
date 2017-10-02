@@ -29,7 +29,7 @@ public class _02_CookerTests {
 	@Test
 	public void aPizzaOvenShouldBeACooker() {
 
-		Cooker underTest = new Microwave();
+		Cooker underTest = new PizzaOven();
 
 		assertNotNull(underTest);
 	}
