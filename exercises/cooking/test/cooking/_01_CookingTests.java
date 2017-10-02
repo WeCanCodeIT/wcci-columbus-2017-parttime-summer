@@ -51,6 +51,9 @@ public class _01_CookingTests {
 	@Test
 	public void shouldBeAbleToCreateAnElectricRange() {
 		
+		ElectricRange underTest = new ElectricRange();
+		
+		assertNotNull(underTest);
 	}
 	
 	@Test
