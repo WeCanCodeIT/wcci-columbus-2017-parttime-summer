@@ -7,10 +7,11 @@ import org.junit.Test;
  * found in a corresponding *Test class. Here we are combining unit tests so
  * that we can make them pass in a prescribed order.
  */
-public class FirstTests {
+public class _1_Tests {
 
 	@Test
-	public void shouldFoo() {
-
+	public void shouldBeAbleToCookInAMicrowave() {
+		
+//		Microwave underTest = new Microwave()
 	}
 }
