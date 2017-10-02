@@ -44,6 +44,7 @@ public class _03_ElectricalTests {
 	@Test
 	public void aPizzaOvenShouldNotBePowered() {
 		
+		// this is checking whether a PizzaOven *isA* Powered
 		boolean isPowered = Powered.class.isAssignableFrom(PizzaOven.class);
 		
 		assertFalse(isPowered);

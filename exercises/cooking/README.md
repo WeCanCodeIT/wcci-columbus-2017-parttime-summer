@@ -24,4 +24,4 @@
 
 ## Adding Tests
 
-You will find the tests [here](./test/cooking). I'm using strange names for classes and tests here to express the order in which you should complete them.
+You will find the tests [here](./test/cooking). I'm using strange names for classes and tests here to express the order in which you should complete them. Also, the tests will seem a bit odd. Some of them are more simple than you'd expect; others may use unfamiliar code. Just work out how to make them pass!
