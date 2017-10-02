@@ -46,7 +46,7 @@ public class _02_CookerTests {
 	@Test
 	public void anElectricRangeShouldBeACooker() {
 
-		Cooker underTest = new Microwave();
+		Cooker underTest = new ElectricRange();
 
 		assertNotNull(underTest);
 	}
@@ -54,5 +54,12 @@ public class _02_CookerTests {
 	@Test(expected = InstantiationException.class)
 	public void shouldNotBeAbleToConstructACooker() throws Exception {
 		Cooker.class.newInstance();
+	}
+
+	@Test
+	public void cookersShouldCook() {
+		Cooker underTest = new Microwave();
+
+		assertNotNull(underTest.cook());
 	}
 }
