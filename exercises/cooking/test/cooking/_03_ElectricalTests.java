@@ -68,4 +68,14 @@ public class _03_ElectricalTests {
 		
 		assertTrue(turnedOn);
 	}
+	
+	@Test
+	public void anElectricRangeShouldNotBeInitiallyTurnedOn() {
+		
+		Powered underTest = new ElectricRange();
+		
+		boolean turnedOn = underTest.isTurnedOn();
+		
+		assertFalse(turnedOn);
+	}
 }
