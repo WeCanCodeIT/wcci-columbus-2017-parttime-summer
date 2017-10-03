@@ -5,15 +5,15 @@ package sorting;
  */
 public class TestSupport {
 
-	Class ____;
+	Class<?> _____;
 	
-	int _;
+	int __;
 	
 	boolean ___;
 
-	String __ = "__";
+	String ____ = "__";
 	
-	Object _____ = new Object() {
+	Object ______ = new Object() {
 
 		@Override
 		public int hashCode() {

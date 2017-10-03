@@ -21,7 +21,7 @@ public class _01_ComparableTests extends TestSupport {
 	@Test
 	public void stringsAreComparable() {
 
-		boolean isComparable = ____.isAssignableFrom(____);
+		boolean isComparable = _____.isAssignableFrom(_____);
 
 		assertTrue(isComparable);
 	}
@@ -37,7 +37,7 @@ public class _01_ComparableTests extends TestSupport {
 
 		int result = abc.compareTo(abc);
 
-		assertEquals(_, result);
+		assertEquals(__, result);
 	}
 
 	@Test
@@ -71,6 +71,6 @@ public class _01_ComparableTests extends TestSupport {
 		
 		Collections.sort(ourList);
 		
-		assertEquals(asList(___, __, __), ourList);
+		assertEquals(asList(____, ____, ____), ourList);
 	}
 }

@@ -21,7 +21,7 @@ public class _02_IdentityTests extends TestSupport {
 		
 		assertTrue(first != second); // not the same object
 		
-		assertEquals(_____, _____);
+		assertEquals(______, ______);
 	}
 	
 	@Test
@@ -31,7 +31,7 @@ public class _02_IdentityTests extends TestSupport {
 		ourList.add(86);
 		ourList.add(42);
 		
-		assertEquals(_, ourList.size());
+		assertEquals(__, ourList.size());
 	}
 	
 	@Test
@@ -41,7 +41,7 @@ public class _02_IdentityTests extends TestSupport {
 		ourSet.add(86);
 		ourSet.add(42);
 		
-		assertEquals(_, ourSet.size());
+		assertEquals(__, ourSet.size());
 	}
 	
 	@Test
@@ -52,9 +52,9 @@ public class _02_IdentityTests extends TestSupport {
 		ourSet.add("def");
 		
 		Iterator<String> elementsItr = ourSet.iterator();
-		assertEquals(__, elementsItr.next());
-		assertEquals(__, elementsItr.next());
-		assertEquals(__, elementsItr.next());
+		assertEquals(____, elementsItr.next());
+		assertEquals(____, elementsItr.next());
+		assertEquals(____, elementsItr.next());
 		assertEquals(___, elementsItr.hasNext());
 	}
 }
