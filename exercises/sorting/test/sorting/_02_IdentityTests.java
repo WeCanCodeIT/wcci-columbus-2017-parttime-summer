@@ -21,7 +21,7 @@ public class _02_IdentityTests extends TestSupport {
 		
 		assertTrue(first != second); // not the same object
 		
-		assertEquals(______, ______);
+		assertTrue(______.equals(______));
 	}
 	
 	@Test
