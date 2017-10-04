@@ -47,7 +47,21 @@ public class _03_EmployeeTests extends TestSupport {
 	}
 	
 	@Test
-	public void shouldBeAbleToSortEmployeesByLastNameFirstNameUsingAComparator() {
+	public void shouldBeAbleToSortEmployeesByLastName() {
+		
+		Comparator<Employee> lastNameFirstNameComparator = new LastNameFirstNameComparator();
+		Employee arthur = new Employee("42", "Arthur", "Dent");
+		Employee ford = new Employee("23", "Ford", "Prefect");
+		
+		List<Employee> employees = new ArrayList<>(asList(ford, arthur));
+		
+		Collections.sort(employees, lastNameFirstNameComparator);
+		
+		assertEquals(asList(arthur, ford), employees);
+	}
+	
+	@Test
+	public void shouldBeAbleToSortEmployeesByLastNameThenFirstName() {
 		
 		Comparator<Employee> lastNameFirstNameComparator = new LastNameFirstNameComparator();
 		Employee atilla = new Employee("86", "Atilla", "Dent");
