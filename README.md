@@ -44,23 +44,34 @@ The Road Map can be found [here](https://docs.google.com/spreadsheets/d/1btdV99C
 - HTML
 - MVC
 
+Career Services: Behaviorial Interview Skills
+
 ## Weeks 11-12 ([details](./week11))
 - CSS
 - Bootstrap
+
+Career Services: Informational Interview Skills
 
 ## Weeks 13-14 ([details](./week13))
 - Relational Databases and Design
 - Relational Databases and SQL
 - Java Persistence API (Spring Data)
 
+Career Services: Intro to Tech Interviews
+**Due Week 15:** Resumes (Printed for Review)
+
 ## Week 15 ([details](./week15))
 - JavaScript/jQuery
 - AJAX, JSON, and RESTful APIs
 - Pair Programming (w/ Git/GitHub)
 
+**Due:** Resumes (Printed for Review)
+
 ## Weeks 16-20
 - Final Project
 - Agile/Scrum
+
+Career Services: Tech Interviews & Individual Mock Interviews
 
 # Important Dates
 
@@ -71,6 +82,9 @@ See [Cohort Calendar](http://tinyurl.com/y8lg9kw5) for guest speakers, etc.
 - Dec 22 - Jan 1: Winter Break (no class)
 - Jan 15: MLK Day (no class)
 - Jan 16: last day of class
+
+# Career Services One-on-One Scheduling
+Use the following link to schedule a one-on-one meeting for career assistance: [Schedule Meeting](https://app.hubspot.com/meetings/lauren47)
 
 # Attendance Policy
 
