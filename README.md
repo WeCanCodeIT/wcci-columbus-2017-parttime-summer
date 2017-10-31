@@ -39,12 +39,14 @@ The Road Map can be found [here](https://docs.google.com/spreadsheets/d/1btdV99C
 - Exceptions
 - Build Automation with Gradle
 
+Career Services: [Elevator Pitch](https://github.com/WeCanCodeIT/wcci-columbus-2017-parttime-summer/blob/master/career-services/elevator-pitch-checklist.md)
+
 ## Weeks 9-10 ([details](./week09))
 - Spring Boot
 - HTML
 - MVC
 
-Career Services: Behaviorial Interview Skills
+Career Services: [Behaviorial Interview Skills](https://github.com/WeCanCodeIT/wcci-columbus-2017-parttime-summer/blob/master/career-services/behavioral-interviews.md)
 
 ## Weeks 11-12 ([details](./week11))
 - CSS
