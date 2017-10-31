@@ -60,6 +60,7 @@ Career Services: Informational Interview Skills
 - Java Persistence API (Spring Data)
 
 Career Services: Intro to Tech Interviews
+
 **Due Week 15:** Resumes (Printed for Review)
 
 ## Week 15 ([details](./week15))
