@@ -16,7 +16,7 @@ The last benefit we are going to focus on is the benefit of beginning to build y
 - [ ] Consider the subject line (i.e. "Saw your article on LinkedIn, would love to connect")
 
 Things to Avoid:
-- Poor word choice (i.e. "Pick your brain"), grammar and spelling mistakes
+- Poor word choice (i.e. "Pick your brain"), [grammar and spelling](https://www.grammarly.com/) mistakes
 - Canceling and/or rescheduling the interview once offered
 - Bombarding the entire office because they do talk
 - Forgetting to send a follow-up thank you for any response and/or interview
@@ -53,3 +53,18 @@ The Strong Finish
 - [ ] Explore the job titles/roles at the company and make a list so you know what to search on LinkedIn
 - [ ] Choose people who are in an aspirational role, but not so high up on the ladder that they may not have time for you
 - [ ] Try to find someone you have common ground with, such as same alma mater, same sorority/fraternity, mutual connections, etc.)
+
+### Homework
+- [ ] Find 2 people at each of your bucket list companies to request an informational interview
+- [ ] Draft a message for each and get feedback from at least 1 teammate from your cohort
+- [ ] After receiving feedback and proof-reading one last time yourself, send your messages
+
+**Due Tuesday, November 14, 2017 @ 5:30 PM:** Printed document with the following information for each person you reached out to (which should be 2 per bucket list company):
+
+- [ ] Name of Contact
+- [ ] Company
+- [ ] Date Message was Sent
+- [ ] The Message Sent to the Contact
+- [ ] Summary of the Outcome
+
+**PLACE THE DOCUMENT IN THE TURN IN FOLDER LOCATED IN THE CLASSROOM**
