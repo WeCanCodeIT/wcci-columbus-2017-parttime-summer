@@ -39,28 +39,42 @@ The Road Map can be found [here](https://docs.google.com/spreadsheets/d/1btdV99C
 - Exceptions
 - Build Automation with Gradle
 
+Career Services: [Elevator Pitch](https://github.com/WeCanCodeIT/wcci-columbus-2017-parttime-summer/blob/master/career-services/elevator-pitch-checklist.md)
+
 ## Weeks 9-10, October 9th-20th ([details](./week09))
 - HTML
 - CSS
 - Spring Boot
 - MVC
 
+Career Services: [Behaviorial Interview Skills](https://github.com/WeCanCodeIT/wcci-columbus-2017-parttime-summer/blob/master/career-services/behavioral-interviews.md)
+
 ## Weeks 11-12, October 23rd-November 3rd ([details](./week11))
 - SQL
 - Relational Databases
 - Java Persistence API (Spring Data)
 
+Career Services: [Informational Interviews](https://github.com/WeCanCodeIT/wcci-columbus-2017-parttime-summer/blob/master/career-services/informational-interviews.md)
+
 ## Weeks 13-14, November 6th-17th ([details](./week13))
 - JPA (continued)
+
+Career Services: Intro to Tech Interviews
+
+**Due:** [Informational Interviews Homework](https://github.com/WeCanCodeIT/wcci-columbus-2017-parttime-summer/blob/master/career-services/informational-interviews.md)
 
 ## Week 15, November 20th-December 1st ([details](./week15))
 - JavaScript/jQuery
 - AJAX, JSON, and RESTful APIs
 - Pair Programming (w/ Git/GitHub)
 
+**Due:** Resumes (Printed for Review & Placed in Turn In Folder in Classroom)
+
 ## Weeks 16-20
 - Final Project
 - Agile/Scrum
+
+Career Services: Tech Interviews & Individual Mock Interviews
 
 # Important Dates
 
@@ -71,6 +85,9 @@ See [Cohort Calendar](http://tinyurl.com/y8lg9kw5) for guest speakers, etc.
 - Dec 22 - Jan 1: Winter Break (no class)
 - Jan 15: MLK Day (no class)
 - Jan 16: last day of class
+
+# Career Services One-on-One Scheduling
+Use the following link to schedule a one-on-one meeting for career assistance: [Schedule Meeting](https://app.hubspot.com/meetings/lauren47)
 
 # Attendance Policy
 
