@@ -52,7 +52,7 @@ Career Services: [Behaviorial Interview Skills](https://github.com/WeCanCodeIT/w
 - CSS
 - Bootstrap
 
-Career Services: Informational Interview Skills
+Career Services: [Informational Interviews](https://github.com/WeCanCodeIT/wcci-columbus-2017-parttime-summer/blob/master/career-services/informational-interviews.md)
 
 ## Weeks 13-14 ([details](./week13))
 - Relational Databases and Design
@@ -61,14 +61,14 @@ Career Services: Informational Interview Skills
 
 Career Services: Intro to Tech Interviews
 
-**Due Week 15:** Resumes (Printed for Review)
+**Due:** [Informational Interviews Homework](https://github.com/WeCanCodeIT/wcci-columbus-2017-parttime-summer/blob/master/career-services/informational-interviews.md)
 
 ## Week 15 ([details](./week15))
 - JavaScript/jQuery
 - AJAX, JSON, and RESTful APIs
 - Pair Programming (w/ Git/GitHub)
 
-**Due:** Resumes (Printed for Review)
+**Due:** Resumes (Printed for Review & Placed in Turn In Folder in Classroom)
 
 ## Weeks 16-20
 - Final Project
