@@ -11,7 +11,7 @@
 
 The Road Map can be found [here](https://docs.google.com/spreadsheets/d/1btdV99CMUxoqmcX4QcZ1srbJnIgPfSpFC4nhpsxP4QI/edit?usp=sharing).
 
-## Weeks 1-2 ([details](./week01))
+## Weeks 1-2, August 14th-25th ([details](./week01))
 - Team Building / Orientation
 - Hello World!
 - Variables, Operators, Expressions, Basic Types
@@ -19,41 +19,41 @@ The Road Map can be found [here](https://docs.google.com/spreadsheets/d/1btdV99C
 - Strings and Text Processing
 - Git and GitHub
 
-## Weeks 3-4 ([details](./week03))
+## Weeks 3-4, August 28th-September 8th ([details](./week03))
 - Arrays
 - Loops
 - Intro to OOP
 - Building Classes - Methods and Attributes
 - Unit Testing/TDD (Junit)
 
-## Weeks 5-6 ([details](./week05))
+## Weeks 5-6, September 11th-22nd ([details](./week05))
 - Collections Overview
 - Lists
 - Maps
 - Inheritance & Polymorphism
 - Encapsulation
 
-## Weeks 7-8 ([details](./week07))
+## Weeks 7-8, September 25th-October 6th ([details](./week07))
 - Dependency Injection/Spring
 - Test Doubles (Mockito)
 - Exceptions
 - Build Automation with Gradle
 
-## Weeks 9-10 ([details](./week09))
-- Spring Boot
+## Weeks 9-10, October 9th-20th ([details](./week09))
 - HTML
+- CSS
+- Spring Boot
 - MVC
 
-## Weeks 11-12 ([details](./week11))
-- CSS
-- Bootstrap
-
-## Weeks 13-14 ([details](./week13))
-- Relational Databases and Design
-- Relational Databases and SQL
+## Weeks 11-12, October 23rd-November 3rd ([details](./week11))
+- SQL
+- Relational Databases
 - Java Persistence API (Spring Data)
 
-## Week 15 ([details](./week15))
+## Weeks 13-14, November 6th-17th ([details](./week13))
+- JPA (continued)
+
+## Week 15, November 20th-December 1st ([details](./week15))
 - JavaScript/jQuery
 - AJAX, JSON, and RESTful APIs
 - Pair Programming (w/ Git/GitHub)
