@@ -2,7 +2,12 @@
 
 ## Overview
 
-Return to your reviews site from the [previous exercise](../reviews-site) (or create another). If you are continuing with your reviews site from the previous exercise, create a new GitHub repo based on a clone of your old project repo. Here's a simple way to go about that:
+Return to your reviews site from the [previous exercise](../reviews-site) (or create another).
+
+
+## Creating a new repository from an existing one
+
+If you are continuing with your reviews site from the previous exercise, create a new GitHub repo based on a clone of your old project repo. Here's a simple way to go about that:
 
 1. Create another clone with a different name. The `git clone` command will accept an additional argument specifying a folder name, so you can do something like: `git clone http://github.com/myid/reviews-site reviews-site-full-stack`.
 1. The `.git` folder is what establishes the folder in which it resides as a git repository. Remove the `.git` folder from this newly cloned repo. You can do this from Windows Explorer or by running `rm -rf .git` from Git Bash. Now it's no longer a git repository.
