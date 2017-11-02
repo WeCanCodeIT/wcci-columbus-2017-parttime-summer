@@ -69,3 +69,14 @@ Your names, etc will be different, but hopefully this helps with some of the con
 |Categories List|/categories                        |an `Iterable` of all `Category` objects    |"categoriesModel"  |repo `findAll` |list of categories |"categoriesView"
 |Category details, including a list of reviews for the chosen category|/category?id=42|the `Category` object associated with `id`|"singleCategoryModel"|repo `findOne`|category detail and list of reviews for that category, each of which links to a review|"singleCategoryView"
 |Review details |/review?id=86                      |the `Review` object associated with `id`   |"reviewModel"      |repo `findOne` |review details     |"reviewView"
+
+#### String fields longer than 255 characters
+
+For instance variables that hold things like descriptions, which may be longer than 255 characters, you will need to indicate that this should be stored in a CLOB (Character Large OBject). To do, this use the `@Lob` annotation on your instance variable, like so:
+
+```java
+@Lob
+private String description;
+```
+
+See [LOBs, BLOBs, CLOBs and Serialization](https://en.wikibooks.org/wiki/Java_Persistence/Basic_Attributes#LOBs.2C_BLOBs.2C_CLOBs_and_Serialization) in the Java Persistence wikibook.
