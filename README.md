@@ -59,7 +59,7 @@ Career Services: [Informational Interviews](https://github.com/WeCanCodeIT/wcci-
 ## Weeks 13-14, November 6th-17th ([details](./week13))
 - JPA (continued)
 
-Career Services: Intro to Tech Interviews
+Career Services: Intro to Tech Interviews (Postponed) due to Hyland Software Guest Speaker
 
 **Due:** [Informational Interviews Homework](https://github.com/WeCanCodeIT/wcci-columbus-2017-parttime-summer/blob/master/career-services/informational-interviews.md)
 
